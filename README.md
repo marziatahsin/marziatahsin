@@ -125,13 +125,6 @@ marzia = {
 
 ---
 
-## 🌿 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marzia272&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
-</p>
-
----
 
 ## 🌱 Currently Learning
 
