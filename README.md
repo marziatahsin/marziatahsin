@@ -10,7 +10,6 @@
 
 **CS @ UMBC · AI Researcher · Head Teaching Fellow · AI4ALL Fellow**
 
-![](https://komarev.com/ghpvc/?username=marzia272&color=58a6ff&style=flat-square&label=profile views)
 
 </div>
 
