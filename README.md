@@ -1,22 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1500&color=58A6FF&width=500&lines=CS+Student+%40+UMBC+%F0%9F%8E%93;Head+Teaching+Fellow+%F0%9F%91%A9%E2%80%8D%F0%9F%8F%AB;AI+Research+Assistant+%F0%9F%A4%96;AI4ALL+Fellow+%E2%9C%A8;Open+to+Opportunities+%E2%9A%A1)](https://git.io/typing-svg)
+<div align="center">
 
-# Hi, I'm Marzia 👋
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-> CS student @ UMBC · AI researcher · Teaching Fellow · building things that are useful + pretty
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1500&color=58A6FF&width=500&center=true&lines=hi+i'm+marzia+%F0%9F%91%8B;CS+student+%40+UMBC;AI+researcher+%2B+teaching+fellow;i+build+things+that+are+useful+%2B+pretty;open+to+internships+%E2%9A%A1)](https://git.io/typing-svg)
+
+### `> whoami`
+
+# Marzia Tahsin
+
+**CS @ UMBC · AI Researcher · Head Teaching Fellow · AI4ALL Fellow**
+
+![](https://komarev.com/ghpvc/?username=marzia272&color=58a6ff&style=flat-square&label=profile views)
+
+</div>
 
 ---
 
-## 🚀 About Me
+I'm a CS student who thinks good software should be *both* technically solid *and* actually enjoyable to use. I research human-AI interaction by day, teach undergrads to love coding by afternoon, and build random passion projects by night. Probably running on too much tea. ☕
 
-```python
-marzia = {
-    "education":  "B.S. Computer Science @ UMBC  |  GPA 3.56  |  Dec 2026",
-    "roles":      ["Head Teaching Fellow", "AI Research Assistant", "AI4ALL Fellow"],
-    "focus":      ["Human-AI Interaction", "ML & Data", "Full-Stack", "UI/UX"],
-    "learning":   ["System Design", "Machine Learning", "AI Facilitation"],
-    "open_to":    ["Internships", "Research Roles", "Cool Collaborations"],
-}
-```
+🎓 **B.S. Computer Science @ UMBC** · GPA 3.56 · Dec 2026 · CWIT Affiliate · currently open to **internships & research roles** 💌
 
 ---
 
@@ -50,6 +52,7 @@ marzia = {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
+---
 
 ## 📌 Featured Projects
 
@@ -104,12 +107,14 @@ marzia = {
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marzia272&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzia272&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzia272&theme=github-dark-blue&hide_border=true" />
 </p>
-
----
 
 
 ## 🌱 Currently Learning
@@ -122,7 +127,9 @@ marzia = {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's connect!
+
+> *whether it's about internships, research, or just cool project ideas — my inbox is open* 💌
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/marz.tahsin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marz.tahsin@gmail.com)
@@ -130,7 +137,6 @@ marzia = {
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by! Open to internships, research roles, and interesting collaborations ⚡</i>
-</p>
-![](https://komarev.com/ghpvc/?username=marzia272&color=58a6ff&style=flat-square&label=Profile+views)
+<div align="center">
+  <i>thanks for stopping by ✨ now go touch some grass (or don't, I'm a README not a cop)</i>
+</div>
