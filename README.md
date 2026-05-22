@@ -50,20 +50,6 @@ marzia = {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
----
-
-## 💼 Experience
-
-**🎓 Head Teaching Fellow** · UMBC · *Sep 2024 – Present*
-> Leading discussion sessions, mentoring TAs, and managing course logistics for undergraduate CS coursework
-
-**🔬 Research Assistant** · UMBC CS Dept · *Sep 2025 – Present*
-> AI facilitator for collaborative visual sensemaking · analyzing dialogue data with NOVIS framework · building prompt libraries for autonomous AI agents
-
-**🤖 AI4ALL Student Fellow** · AI4ALL Ignite Program · *May – Sep 2025*
-> Competitively selected · ML fundamentals · algorithmic fairness · built EEG emotion recognition capstone
-
----
 
 ## 📌 Featured Projects
 
